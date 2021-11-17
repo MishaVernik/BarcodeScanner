@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure_FunctionApp", "Azure_FunctionApp\Azure_FunctionApp.csproj", "{3C001F05-F0DD-437E-BAC1-8C5DFA409575}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeFAPI", "BarcodeFAPI\BarcodeFAPI.csproj", "{9C95866E-32C3-4878-8E0B-050F88CCF1BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3C001F05-F0DD-437E-BAC1-8C5DFA409575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3C001F05-F0DD-437E-BAC1-8C5DFA409575}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3C001F05-F0DD-437E-BAC1-8C5DFA409575}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3C001F05-F0DD-437E-BAC1-8C5DFA409575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C95866E-32C3-4878-8E0B-050F88CCF1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C95866E-32C3-4878-8E0B-050F88CCF1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C95866E-32C3-4878-8E0B-050F88CCF1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C95866E-32C3-4878-8E0B-050F88CCF1BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {84E32D00-3AE8-447B-AF2D-00B87672F030}
+		SolutionGuid = {C4D406DB-28AD-461F-B904-6A730BA06982}
 	EndGlobalSection
 EndGlobal
